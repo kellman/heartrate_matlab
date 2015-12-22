@@ -1,7 +1,7 @@
 MATLAB code
 18-551 Group 2
 Spring 2015
-Michael Kellman, Bryan Phipps, Sophia Zikanova
+Michael Kellman
 
 This is the directory which contains all of the matlab code for testing the algorithm for extracting heart rate. The important files are listed below:
 	heartrate_estimate.m
